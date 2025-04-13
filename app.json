@@ -7,9 +7,9 @@
 
   "env": {
     "SESSION_ID": {
-            "description": VAJIRA-MD=oacxDT6L#B1xo_7qW_zTCRz_zeWRJkaLnxjw5dlLFUZXGpqEczi0 ,
+            "description": Hi,
             "required": true,
-            "value": "put session id here"
+            "value": VAJIRA-MD=oacxDT6L#B1xo_7qW_zTCRz_zeWRJkaLnxjw5dlLFUZXGpqEczi0
         },
     "MODE": {
             "description": "Put button or nonbutton to change the mode",
